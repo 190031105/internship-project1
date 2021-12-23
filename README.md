@@ -1,2 +1,5 @@
-# internship-project1
-About java internship project
+# InternshipJavaProject1
+InternshipProject for LoanAssistant
+
+
+summer Internship for Loan Assistantjava project
